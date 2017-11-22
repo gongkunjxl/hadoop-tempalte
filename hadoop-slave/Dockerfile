@@ -1,4 +1,4 @@
-FROM gongkun/serf-dnsmasq:0.1.0
+FROM gongkunjxl/serf-dnsmasq:0.1.0
 
 MAINTAINER gongkun <gongkunjxl@163.com>
 
