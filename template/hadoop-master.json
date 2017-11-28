@@ -283,6 +283,6 @@
     }
   ],
   "labels": {
-    "template": "app-template"
+    "template": "hadoop-cluster"
   }
 }

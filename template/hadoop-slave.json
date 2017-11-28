@@ -274,6 +274,6 @@
     }
   ],
   "labels": {
-    "template": "hadoop-slave-template"
+    "template": "hadoop-cluster"
   }
 }
